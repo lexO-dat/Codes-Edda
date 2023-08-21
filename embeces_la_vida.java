@@ -1,5 +1,4 @@
-//Lucas Abello
-//21450324-7
+
 //HR: lucas_abello
 
 import java.util.*;
